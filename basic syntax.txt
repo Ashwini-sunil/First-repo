@@ -9,3 +9,6 @@
 --> git config --local -l
 
 -->  git commit -m "version name"
+--> git reset file name of staged file
+--> git checkout file name to be brought back to starting stage
+--> git check out . to brought back to staarting state to all file
